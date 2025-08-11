@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "matrixchain"
-version = "1.0.0"
+version = "1.0.1"
 description = "Hacker-style Matrix Chain Multiplication visualizer"
 readme = "README.md"
 requires-python = ">=3.7"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
     {name = "Chauhan Pruthviraj", email = "chauhanpruthviraj309@gmail.com"}
 ]
@@ -17,7 +17,7 @@ classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Education",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.7",
